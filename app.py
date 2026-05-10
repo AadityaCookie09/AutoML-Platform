@@ -1,18 +1,3 @@
-"""
-AutoML 
-Features:
-  • Forced light mode for consistent, clean contrast
-  • Professional SaaS dashboard aesthetic
-  • Automated preprocessing (imputation, encoding)
-  • Robust RandomForest implementation (Classification/Regression)
-  • Beginner & Advanced viewing modes
-  • Feature importance analysis
-  • Interactive inference module
-  • Model export capabilities
-
-Tech stack: streamlit · pandas · numpy · matplotlib · scikit-learn · joblib
-"""
-
 import io
 import time
 import warnings
